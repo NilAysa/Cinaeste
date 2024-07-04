@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Cineaste" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+    <!-- Dark mode
+    424B54
+    E1CE7A
+    EBCFB2
+    C5BAAF
+    FFFFFF
+    -->
+    <!-- Screen background if light mode on -->
+    <style name="screen">
+        <item name="android:background">#424B54</item>
+    </style>
+
+    <!-- Text color -->
+    <style name="text">
+        <item name="android:textColor">#E1CE7A</item>
+    </style>
+
+    <style name="button">
+        <item name="android:backgroundTint">#000</item>
+        <item name="android:textColor">#FFF</item>
+    </style>
+
+</resources>

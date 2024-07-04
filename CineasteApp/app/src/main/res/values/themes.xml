@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Cineaste" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Cineaste" parent="Base.Theme.Cineaste" />
+
+
+    <!-- Light mode
+     #D5DFE5
+     C9B1BD
+     B49594
+     7F9172
+     567568
+     -->
+    <!-- Screen background if light mode on -->
+    <style name="screen">
+        <item name="android:background">#FFF</item>
+    </style>
+
+    <!-- Text color -->
+    <style name="text">
+        <item name="android:textColor">#567568</item>
+    </style>
+
+    <style name="button">
+        <item name="android:backgroundTint">#C9B1BD</item>
+        <item name="android:textColor">#567568</item>
+    </style>
+
+
+
+</resources>

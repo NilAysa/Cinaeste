@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cineaste</string>
+    <string name="favorite">Favorite movies:</string>
+    <string name="recent">Upcoming movies:</string>
+    <string name="recentM">Upcoming movies:</string>
+    <string name="search">Search</string>
+    <string name="favoritesText">My favorite movies</string>
+    <string name="recentTexts">Latest movies  playing in theaters and streaming platforms</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
